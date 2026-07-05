@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/vasic_rolet/',
+  base: '/vasic-rolet/',
   plugins: [react()],
   resolve: {
     alias: {

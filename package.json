@@ -3,7 +3,7 @@
   "private": true,
   "version": "2.0.0",
   "type": "module",
-  "homepage": "https://bockicc.github.io/vasic_rolet",
+  "homepage": "https://bockicc.github.io/vasic-rolet/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
